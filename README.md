@@ -1,7 +1,9 @@
 ### Hi there 👋
 [![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasirsabbir07&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasirsabbir07&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasirsabbir07&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasirsabbir07&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
 <!--
 **nasirsabbir07/nasirsabbir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
